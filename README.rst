@@ -38,7 +38,8 @@ Then you can use the command ``doit_in_docker`` as::
 Acknowledgments
 ===============
 
-Eduardo Schettino: for the great doit_ tool.
+`@schettino72`_: for the great doit_ tool, and `@joestubbs`_ for
+finding it!
 
 
 License
@@ -48,3 +49,5 @@ MIT
 
 
 .. _doit: http://pydoit.org/index.html
+.. _@schettino72: https://github.com/schettino72
+.. _@joestubbs: https://github.com/joestubbs
